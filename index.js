@@ -4,6 +4,7 @@ module.exports = {
         1: "150 kanjis essentiels",
         2: "Mots occidentaux kanatakinés",
         3: "Jukujikun",
+        4: "Julien Fontanier Sensei",
     },
     classes: {
         0: "Tous",
